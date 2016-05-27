@@ -1,1 +1,5 @@
-This is the code and schematic for an Arduino based controller for Dousing projectors with QLab over MIDI
+This is the code and schematic for an Arduino based controller for Dousing projectors with QLab over MIDI.
+
+Background:
+This device was designed to control three modified CD trays which were mounted to completely block the light coming out of our projectors. 
+Since these dowsers could be triggered by our show control computer, it allowed for perfectly synced complete blackouts.
